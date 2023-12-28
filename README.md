@@ -6,7 +6,7 @@ guiada como parte de la ruta de aprendizaje "Creación de aplicaciones web con B
 ## Autor ##
 **Carlos Alberto Yick Castillo**
 
-* [LinkedIn](www.linkedin.com/in/carlosyick)
+* [LinkedIn](https://www.linkedin.com/in/carlosyick/)
 
 ## Contratación ##
 Si quieres contratarme puedes escribirme a carlosyick@gmail.com para consultas.
