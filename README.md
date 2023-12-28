@@ -4,7 +4,7 @@ Aplicación web hecha con ASP.NET y Blazor para un sistema de entrega de pizzas.
 guiada como parte de la ruta de aprendizaje "Creación de aplicaciones web con Blazor" de Microsoft Learn.
 
 ## Autor ##
-** Carlos Alberto Yick Castillo **
+**Carlos Alberto Yick Castillo**
 
 * [LinkedIn](www.linkedin.com/in/carlosyick)
 
