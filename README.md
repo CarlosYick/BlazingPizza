@@ -1,4 +1,5 @@
 ![](https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg)
+![](https://www.pragimtech.com/wp-content/uploads/2020/03/blazor-tutorial-for-beginners.png)
 
 ## Descripción ##
 
